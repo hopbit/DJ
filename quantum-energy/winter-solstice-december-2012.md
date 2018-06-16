@@ -1,21 +1,13 @@
-Title: Winter solstice (December 2012)
-Date: 2012-12-23
-Category: Quantum Energy
-Tags: dnb, jazzy dnb, liquid dnb, tech step
-Slug: winter-solstice-december-2012
-Author: Łukasz Siwiński
-Summary: 
+# Winter solstice (December 2012)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIQ3hqRTdwR1pnRUk" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KN0pPS0t2bjN0SW8" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIQ3hqRTdwR1pnRUk/edit?usp=sharing" 
-    title="Quantum Energy - Winter solstice (December 2012)" target="_blank">
-**DOWNLOAD (186MB, 82min)**
-</a>
+Date: 2012-12-23    
+Tags: dnb, jazzy dnb, liquid dnb, tech step    
+
+[![Quantum Energy](https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KN0pPS0t2bjN0SW8)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIQ3hqRTdwR1pnRUk)
+
+[**DOWNLOAD (186MB, 82min)**](https://drive.google.com/file/d/0B_4_ynm06YZIQ3hqRTdwR1pnRUk/edit?usp=sharing)
 
 TRACKLIST:  
 

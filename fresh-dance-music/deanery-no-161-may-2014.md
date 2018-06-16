@@ -1,25 +1,18 @@
-Title: Deanery No. 161 (May 2014)
-Date: 2014-05-31
-Category: Fresh Dance Music
-Tags: dance, pop, house, pop dnb
-Slug: deanery-no-161-may-2014
-Author: Łukasz Siwiński
-Summary: 
+# Deanery No. 161 (May 2014)
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528cFA2X1c5VXRzekE" />
-</a><br/>
+----
+
+Date: 2014-05-31    
+Tags: dance, pop, house, pop dnb    
+
+[![Fresh Dance Music](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528cFA2X1c5VXRzekE)](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms)  
 Photo by: **Justyna Helena Majewska** 
 (<a href="http://www.justynahelenamajewska.blogspot.com/" target="_blank">Blog</a>, 
 <a href="https://www.facebook.com/justyna.helena.majewska.fotografia" target="_blank">Facebook</a>)
 
-<iframe width="400" height="60" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fdeanery-no-161-may-2014%2F&amp;mini=1&amp;embed_uuid=f21dd33b-97b1-4ea2-bd8f-261ff9b43af1&amp;replace=0&amp;hide_cover=1&amp;hide_artwork=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/FreshDanceMusic/deanery-no-161-may-2014/)
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms" 
-    title="Fresh Dance Music - For An Angel (January 2010)" target="_blank">
-**DOWNLOAD (160MB, 70min)**
-</a>
+[**DOWNLOAD (160MB, 70min)**](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms)
 
 Tracklist:  
 

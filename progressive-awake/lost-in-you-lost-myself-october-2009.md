@@ -1,21 +1,14 @@
-Title: Lost in You, lost myself… (October 2009)
-Date: 2009-10-15
-Category: Progressive Awake
-Tags:  progressive house, tech house
-Slug: lost-in-you-lost-myself-october-2009
-Author: Łukasz Siwiński
-Summary: 
+# Lost in You, lost myself… (October 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIaWNaNk1zNlVfbzQ" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4MVFMaXBma0JRR2s" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIaWNaNk1zNlVfbzQ/edit?usp=sharing" 
-    title="Progressive Awake - Lost in You, lost myself… (October 2009)" target="_blank">
-**DOWNLOAD (89MB , 65min)**
-</a>
+Date: 2009-10-15    
+Tags:  progressive house, tech house    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4MVFMaXBma0JRR2s)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIaWNaNk1zNlVfbzQ)
+
+[**DOWNLOAD (89MB , 65min)**](https://drive.google.com/file/d/0B_4_ynm06YZIaWNaNk1zNlVfbzQ/edit?usp=sharing)
+
 
 TRACKLIST:  
 

@@ -1,22 +1,15 @@
-Title: Cave (January 2015)
-Date: 2015-01-11
-Category: Fresh Dance Music
-Tags: dance, pop, house, dnb
-Slug: cave-january-2015
-Author: Łukasz Siwiński
-Summary: 
+# Cave (January 2015)
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528OTFSUzRKWndPV2s" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528SzZlNEhYM3dxMGc" />
-</a><br/>
+----
 
-<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fcave-january-2015%2F&amp;mini=1&amp;embed_uuid=d4da08a2-fda6-4c65-a1a3-1f953c4ce3f5&amp;replace=0&amp;hide_cover=1&amp;light=1&amp;hide_artwork=1&amp;stylecolor=000000&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
+Date: 2015-01-11    
+Tags: dance, pop, house, dnb    
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528OTFSUzRKWndPV2s" 
-    title="Fresh Dance Music - Cave (January 2015)" target="_blank">
-**DOWNLOAD (148MB, 66min)**
-</a>
+[![Fresh Dance Music](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528SzZlNEhYM3dxMGc)](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528OTFSUzRKWndPV2s)
+
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/FreshDanceMusic/cave-january-2015/)
+
+[**DOWNLOAD (148MB, 66min)**](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528OTFSUzRKWndPV2s)
 
 Tracklist:  
 

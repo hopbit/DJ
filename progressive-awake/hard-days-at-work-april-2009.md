@@ -1,21 +1,13 @@
-Title: Hard days at work (April 2009)
-Date: 2009-04-23 23:28
-Category: Progressive Awake
-Tags: progressive house, tech house, techno 
-Slug: hard-days-at-work-april-2009
-Author: Łukasz Siwiński
-Summary: 
+# Hard days at work (April 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIdnpnVlJOV25tSEU" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4THAxbEh1MVBuZXc" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIdnpnVlJOV25tSEU/edit?usp=sharing" 
-    title="Progressive Awake - Hard days at work (April 2009)" target="_blank">
-**DOWNLOAD (57MB, 62min)**
-</a>
+Date: 2009-04-23 23:28  
+Tags: progressive house, tech house, techno   
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4THAxbEh1MVBuZXc)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIdnpnVlJOV25tSEU)
+
+[**DOWNLOAD (57MB, 62min)**](https://drive.google.com/file/d/0B_4_ynm06YZIdnpnVlJOV25tSEU/edit?usp=sharing)
 
 TRACKLIST:  
 

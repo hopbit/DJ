@@ -1,21 +1,13 @@
-Title: Music Is My Oxygen (January 2010)
-Date: 2010-01-05
-Category: Progressive Awake
-Tags:  dance, progressive house, tech house, techno
-Slug: music-is-my-oxygen-january-2010
-Author: Łukasz Siwiński
-Summary: 
+# Music Is My Oxygen (January 2010)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOF9nRThwLWstaWc" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bTlrSklwREZxQXM" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIOF9nRThwLWstaWc/edit?usp=sharing" 
-    title="Progressive Awake - Music Is My Oxygen (January 2010)" target="_blank">
-**DOWNLOAD (100MB, 72min)**
-</a>
+Date: 2010-01-05    
+Tags:  dance, progressive house, tech house, techno    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bTlrSklwREZxQXM)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOF9nRThwLWstaWc)
+
+[**DOWNLOAD (100MB, 72min)**](https://drive.google.com/file/d/0B_4_ynm06YZIOF9nRThwLWstaWc/edit?usp=sharing)
 
 TRACKLIST:  
 

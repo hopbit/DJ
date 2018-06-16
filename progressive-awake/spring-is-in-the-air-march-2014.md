@@ -1,24 +1,16 @@
-Title: Spring is in the air (March 2014)
-Date: 2014-03-19 22:00
-Category: Progressive Awake
-Tags: progressive house
-Slug: progressive-awake-spring-is-in-the-air-march-2014
-Author: Łukasz Siwiński
-Summary: 
+# Spring is in the air (March 2014)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4YlJ4RVJLUWU4R3c" />
-</a>
+----
 
-<iframe width="400" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/144704833&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
+Date: 2014-03-19 22:00  
+Tags: progressive house  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4YlJ4RVJLUWU4R3c)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk" 
-    title="Spring is in the air (March 2014)" target="_blank">
-**DOWNLOAD LINK**
-</a>
+[**DOWNLOAD LINK**](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk)
+
+[LISTEN @ SOUNDCLOUD](https://soundcloud.com/progressive-awake/spring-is-in-the-air-march-2014)
 
 Tracklist:
 

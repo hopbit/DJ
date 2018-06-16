@@ -1,21 +1,13 @@
-Title: Holidays Wanted!!! (June 2009)
-Date: 2009-06-14
-Category: Progressive Awake
-Tags:  progressive house
-Slug: holidays-wanted-june-2009 
-Author: Łukasz Siwiński
-Summary: 
+# Holidays Wanted!!! (June 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITmE4NHMwMVlLREU" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cWxkSkJEcGprd1E" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZITmE4NHMwMVlLREU/edit?usp=sharing" 
-    title="Progressive Awake - Holidays Wanted!!! (June 2009)" target="_blank">
-**DOWNLOAD (49MB, 53min)**
-</a>
+Date: 2009-06-14    
+Tags:  progressive house    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cWxkSkJEcGprd1E)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITmE4NHMwMVlLREU)
+
+[**DOWNLOAD (49MB, 53min)**](https://drive.google.com/file/d/0B_4_ynm06YZITmE4NHMwMVlLREU/edit?usp=sharing)
 
 TRACKLIST:  
 

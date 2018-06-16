@@ -1,21 +1,13 @@
-Title: Love Cycle (February 2011)
-Date: 2011-02-13
-Category: Quantum Energy
-Tags: dnb, neuro funk, liquid dnb
-Slug: love-cycle-february-2010
-Author: Łukasz Siwiński
-Summary: 
+# Love Cycle (February 2011)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY1VxS0VSRl81TWs" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KQjRza1RLbThnTTA" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIY1VxS0VSRl81TWs/edit?usp=sharing" 
-    title="Quantum Energy - Love Cycle (February 2011)" target="_blank">
-**DOWNLOAD (93MB, 78MIN)**
-</a>
+Date: 2011-02-13    
+Tags: dnb, neuro funk, liquid dnb    
+
+[![Quantum Energy](https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KQjRza1RLbThnTTA)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY1VxS0VSRl81TWs)
+
+[**DOWNLOAD (93MB, 78MIN)**](https://drive.google.com/file/d/0B_4_ynm06YZIY1VxS0VSRl81TWs/edit?usp=sharing)
 
 TRACKLIST:  
 

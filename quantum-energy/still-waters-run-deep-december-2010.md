@@ -1,22 +1,14 @@
-Title: Still Waters Run Deep (December 2010)
-Date: 2010-12-20
-Category: Quantum Energy
-Tags: liquid dnb, dnb
-Slug: still-waters-run-deep-december-2010
-Author: Łukasz Siwiński
-Summary: 
+# Still Waters Run Deep (December 2010)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIamVCUS12TW1haHM" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KY1B2aWhMT0syRTg" />
-</a>
+----
+
+Date: 2010-12-20    
+Tags: liquid dnb, dnb    
+
+[![Quantum Energy](https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KY1B2aWhMT0syRTg)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIamVCUS12TW1haHM)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIamVCUS12TW1haHM/edit?usp=sharing" 
-    title="Quantum Energy - Still Waters Run Deep (December 2010)" target="_blank">
-**DOWNLOAD (77MB, 55MIN)**
-</a>
+[**DOWNLOAD (77MB, 55MIN)**](https://drive.google.com/file/d/0B_4_ynm06YZIamVCUS12TW1haHM/edit?usp=sharing)
 
 TRACKLIST:  
 

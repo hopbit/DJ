@@ -1,21 +1,13 @@
-Title: 4 Seasons Of Love (November 2009)
-Date: 2009-11-15
-Category: Progressive Awake
-Tags: progressive house, tech house.
-Slug: 4-seasons-of-love-november-2009
-Author: Łukasz Siwiński
-Summary: 
+# 4 Seasons Of Love (November 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIWUF1ZVVBdklhUkE" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NXFvWXdfWEJUdG8" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIWUF1ZVVBdklhUkE/edit?usp=sharing" 
-    title="Progressive Awake - 4 Seasons Of Love (November 2009)" target="_blank">
-**DOWNLOAD (79MB, 58min)**
-</a>
+Date: 2009-11-15    
+Tags: progressive house, tech house.    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NXFvWXdfWEJUdG8)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIWUF1ZVVBdklhUkE)
+
+[**DOWNLOAD (79MB, 58min)**](https://drive.google.com/file/d/0B_4_ynm06YZIWUF1ZVVBdklhUkE/edit?usp=sharing)
 
 TRACKLIST:  
 

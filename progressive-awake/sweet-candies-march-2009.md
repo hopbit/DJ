@@ -1,21 +1,13 @@
-Title: Sweet candies (March 2009)
-Date: 2009-03-29 23:20
-Category: Progressive Awake
-Tags:  progressive house, tech house, techno
-Slug: sweet-candies-march-2009
-Author: Łukasz Siwiński
-Summary: 
+# Sweet candies (March 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIeDFFM1pBamZuYkk" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ejV6UG9YLTMtSlE" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIeDFFM1pBamZuYkk/edit?usp=sharing" 
-    title="Progressive Awake - Sweet candies (March 2009)" target="_blank">
-**DOWNLOAD (86MB, 63min)**
-</a>
+Date: 2009-03-29 23:20  
+Tags:  progressive house, tech house, techno  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ejV6UG9YLTMtSlE)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIeDFFM1pBamZuYkk)
+
+[**DOWNLOAD (86MB, 63min)**](https://drive.google.com/file/d/0B_4_ynm06YZIeDFFM1pBamZuYkk/edit?usp=sharing)
 
 TRACKLIST:  
 

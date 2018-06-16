@@ -1,21 +1,13 @@
-Title: House Sweet House (March 2010)
-Date: 2010-03-21
-Category: Fresh Dance Music
-Tags: dance, vocal house
-Slug: house-sweet-house-march-2010
-Author: Łukasz Siwiński
-Summary: 
+# House Sweet House (March 2010)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UURtMjg0TFFYcTA" />
-</a>
+----
 
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITDMzU0tJN3Vucnc" 
-    title="Fresh Dance Music - House Sweet House (March 2010)" target="_blank">
-**DOWNLOAD (85MB, 61MIN)**
-</a>
+Date: 2010-03-21    
+Tags: dance, vocal house    
+
+[![Fresh Dance Music](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UURtMjg0TFFYcTA)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc)
+
+[**DOWNLOAD (85MB, 61MIN)**](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITDMzU0tJN3Vucnc)
 
 TRACKLIST IS NO AVAILABLE FOR THIS SET:  
 

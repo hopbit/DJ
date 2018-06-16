@@ -1,21 +1,13 @@
-Title: Love Paradox (August 2008) 
-Date: 2008-08-16 23:46
-Category: Progressive Awake
-Tags: progressive house, tech house
-Slug: love-paradox-august-2008
-Author: Łukasz Siwiński
-Summary: 
+# Love Paradox (August 2008) 
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIYkpPZHpQZC1rYlk" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ellla1dQbzBaQXM" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIYkpPZHpQZC1rYlk/edit?usp=sharing" 
-    title="Progressive Awake - ?" target="_blank">
-**DOWNLOAD (101MB, 1h 13min)**
-</a>
+Date: 2008-08-16 23:46    
+Tags: progressive house, tech house  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ellla1dQbzBaQXM)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIYkpPZHpQZC1rYlk)
+
+[**DOWNLOAD (101MB, 1h 13min)**](https://drive.google.com/file/d/0B_4_ynm06YZIYkpPZHpQZC1rYlk/edit?usp=sharing)
 
 TRACKLIST:  
 

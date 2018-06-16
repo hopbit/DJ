@@ -1,22 +1,16 @@
-Title: Playpool (September 2016)  
-Date: 2016-09-25  
-Category: Progressive Awake
-Tags:  dance, progressive house, vocal
-Slug: playpool-september-2016
-Author: Łukasz Siwiński
-Summary: 
+# Playpool (September 2016)  
 
-<a href ="https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" height="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aER0VVA4dkltY28" />
-</a><br/>
+----
 
-<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fplaypool-september-2016%2F&hide_cover=1&mini=1&light=1" frameborder="0"></iframe>
+Date: 2016-09-25    
+Tags:  dance, progressive house, vocal    
 
-<a href ="https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download" 
-    title="Progressive Awake - Playpool (September 2016)" target="_blank">
-**DOWNLOAD (107MB, 47min)**
-</a>
+[![DOWNLOAD](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aER0VVA4dkltY28)](https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download)
+
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/progressiveawake/playpool-september-2016/)
+
+
+[**DOWNLOAD (107MB, 47min)**](https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download)
 
 Tracklist:  
 

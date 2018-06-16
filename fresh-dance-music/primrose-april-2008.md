@@ -1,25 +1,17 @@
-Title: Primrose (April 2008)
-Date: 2008-04-01
-Category: Fresh Dance Music
-Tags: dance, pop
-Slug: primrose-april-2008
-Author: Łukasz Siwiński
-Summary: 
+# Primrose (April 2008)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528TFhuQXNLUzlyV2s" />
-</a>
+----
+
+Date: 2008-04-01    
+Tags: dance, pop    
+
+[![Fresh Dance Music](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528TFhuQXNLUzlyV2s)](https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download)
 
 <!-- ### PLAYER ### -->
-<iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fprimrose-april-2008%2F&amp;embed_uuid=3f0745e0-683a-4650-9df4-5ea6a5d51c0b&amp;replace=0&amp;hide_cover=1&amp;light=1&amp;hide_artwork=1&amp;stylecolor=424b43&amp;embed_type=widget_standard&amp;hide_tracklist=1" height="180" width="400" frameborder="0"></iframe>
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/FreshDanceMusic/primrose-april-2008/)
 
 <!-- ### DOWNLOAD LINK ### -->
-<a href ="https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download" 
-    title="Progressive Awake - Primrose (April 2008)" target="_blank">
-**DOWNLOAD (90MB, 78min)**
-</a>
+[**DOWNLOAD (90MB, 78min)**](https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download)
 
 TRACKLIST:  
 

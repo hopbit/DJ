@@ -1,22 +1,15 @@
-Title: Snowdrop (March 2011)
-Date: 2011-03-05 22:50
-Category: Progressive Awake
-Tags: break beat, progressive house, tech house, trance
-Slug: progressive-awake-snowdrop-march-2011
-Author: Łukasz Siwiński
-Summary: 
+# Snowdrop (March 2011)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzBNSE9lYTRjN1U" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4U05zMm5EbkZ5YjA" />
-</a>
+----
+
+Date: 2011-03-05 22:50  
+Tags: break beat, progressive house, tech house, trance  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4U05zMm5EbkZ5YjA)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzBNSE9lYTRjN1U)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzBNSE9lYTRjN1U" 
-    title="Progressive Awake - Snowdrop (March 2011)" target="_blank">
-**DOWNLOAD LINK (97MB, 1h 8min)**
-</a>
+[**DOWNLOAD LINK (97MB, 1h 8min)**](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzBNSE9lYTRjN1U)
+
 
 TRACKLIST:
 

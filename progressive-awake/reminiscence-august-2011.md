@@ -1,22 +1,15 @@
-Title: Reminiscence (August 2011)
-Date: 2011-08-12 23:14
-Category: Progressive Awake
-Tags: dance, deep house, progressive house, tech house, techno
-Slug: progressive-awake-reminiscence-august-2011
-Author: Łukasz Siwiński
-Summary: 
+# Reminiscence (August 2011)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NlpVQy1STXVMZHM" />
-</a>
+----
+
+Date: 2011-08-12 23:14  
+Tags: dance, deep house, progressive house, tech house, techno  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NlpVQy1STXVMZHM)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk" 
-    title="Progressive Awake - Reminiscence (August 2011)" target="_blank">
-**DOWNLOAD LINK (206MB, 1h 28min)**
-</a>
+[**DOWNLOAD LINK (206MB, 1h 28min)**](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk)
+
 
 TRACKLIST:  
 

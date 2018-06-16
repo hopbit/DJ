@@ -1,21 +1,13 @@
-Title: Chillstep (June 2011)
-Date: 2011-06-09
-Category: Unreleased Emotions
-Tags:  dubstep, popstep, progressive house
-Slug: chillstep-june-2011
-Author: Łukasz Siwiński
-Summary: 
+# Chillstep (June 2011)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIV2ZCb0dBQUZyV3M" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPblA4ZWZtU3VTOVk" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIV2ZCb0dBQUZyV3M/edit?usp=sharing" 
-    title="Unreleased Emotions - Chillstep (June 2011)" target="_blank">
-**DOWNLOAD (93MB, 67min)**
-</a>
+Date: 2011-06-09    
+Tags:  dubstep, popstep, progressive house    
+
+[![Unreleased Emotions](https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPblA4ZWZtU3VTOVk)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIV2ZCb0dBQUZyV3M)
+
+[**DOWNLOAD (93MB, 67min)**](https://drive.google.com/file/d/0B_4_ynm06YZIV2ZCb0dBQUZyV3M/edit?usp=sharing)
 
 TRACKLIST:  
 

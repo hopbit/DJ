@@ -1,24 +1,17 @@
-Title: Different Kind Of Life (October 2012)
-Date: 2012-10-22 20:03
-Category: Progressive Awake
-Tags: trance, uplifting, tech
-Slug: progressive-awake-different-kind-of-life-october-2012
-Author: Łukasz Siwiński
-Summary: 
+# Different Kind Of Life (October 2012)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX3hNcEZnYm00N2M" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4T19aSS1oWGllQ1E" />
-</a>
+----
 
-<iframe width="400" height="180" src="http://mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fprogressive-awake-different-kind-of-life-october-2012%2F&amp;embed_uuid=55e898bd-cf05-4b5b-aaad-abf4cf897d4f&amp;replace=0&amp;hide_cover=0&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
+Date: 2012-10-22 20:03  
+Tags: trance, uplifting, tech  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4T19aSS1oWGllQ1E)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX3hNcEZnYm00N2M)
+
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/progressiveawake/progressive-awake-different-kind-of-life-october-2012/)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX3hNcEZnYm00N2M" 
-    title="Progressive Awake - Different Kind Of Life (October 2012)" target="_blank">
-**DOWNLOAD LINK (107MB, 1h 28min)**
-</a>
+[**DOWNLOAD LINK (107MB, 1h 28min)**](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX3hNcEZnYm00N2M)
+
 
 
 Tracklist:

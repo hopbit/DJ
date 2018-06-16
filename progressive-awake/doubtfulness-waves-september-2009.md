@@ -1,21 +1,14 @@
-Title: Doubtfulness Waves (September 2009)
-Date: 2009-09-05
-Category: Progressive Awake
-Tags: progressive house
-Slug: doubtfulness-waves-september-2009
-Author: Łukasz Siwiński
-Summary: 
+# Doubtfulness Waves (September 2009)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOWREbnlvSWhqZzA" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aWF0czBGQmJjOE0" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIOWREbnlvSWhqZzA/edit?usp=sharing"
-    title="Progressive Awake - Doubtfulness Waves (September 2009)" target="_blank">
-**DOWNLOAD (88MB, 64min)**
-</a>
+Date: 2009-09-05    
+Tags: progressive house    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aWF0czBGQmJjOE0)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOWREbnlvSWhqZzA)
+
+[**DOWNLOAD (88MB, 64min)**](https://drive.google.com/file/d/0B_4_ynm06YZIOWREbnlvSWhqZzA/edit?usp=sharing)
+
 
 TRACKLIST:  
 

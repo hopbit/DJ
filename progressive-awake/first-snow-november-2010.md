@@ -1,21 +1,13 @@
-Title: First Snow (November 2010)
-Date: 2010-11-10
-Category: Progressive Awake
-Tags:  dance, progressive house
-Slug: first-snow-november-2010
-Author: Łukasz Siwiński
-Summary: 
+# First Snow (November 2010)
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX1lleU1lUEl0YWM" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cDJYVjY0My1sYTA" />
-</a>
+----
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIX1lleU1lUEl0YWM/edit?usp=sharing" 
-    title="Progressive Awake - First Snow (November 2010)" target="_blank">
-**DOWNLOAD (80MB, 57min)**
-</a>
+Date: 2010-11-10    
+Tags:  dance, progressive house    
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cDJYVjY0My1sYTA)](https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX1lleU1lUEl0YWM)
+
+[**DOWNLOAD (80MB, 57min)**](https://drive.google.com/file/d/0B_4_ynm06YZIX1lleU1lUEl0YWM/edit?usp=sharing)
 
 TRACKLIST:  
 

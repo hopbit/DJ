@@ -1,22 +1,16 @@
-Title: Uncharted Waters (June 2015)
-Date: 2015-06-16
-Category: Progressive Awake
-Tags: progressive house, indie dance, nu disco, tech house, deep house, electronica
-Slug: uncharted-waters-june-2015
-Author: Łukasz Siwiński
-Summary: 
+# Uncharted Waters (June 2015)
 
-<a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ZWdYeFZ0dVZ3T3M" />
-</a><br/>
+----
 
-<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=06dd213d-8c8d-44b0-b856-160887fe3b43&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Funcharted-waters-june-2015%2F&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;mini=1&amp;replace=0" frameborder="0"></iframe>
+Date: 2015-06-16    
+Tags: progressive house, indie dance, nu disco, tech house, deep house, electronica    
 
-<a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA" 
-    title="Progressive Awake - Uncharted Waters (June 2015)" target="_blank">
-**DOWNLOAD (159MB, 69min)**
-</a>
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ZWdYeFZ0dVZ3T3M)](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA)
+
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/progressiveawake/uncharted-waters-june-2015/)
+
+
+[**DOWNLOAD (159MB, 69min)**](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA)
 
 Tracklist:  
 

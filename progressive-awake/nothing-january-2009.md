@@ -1,22 +1,14 @@
-Title: Nothing (January 2009)  
-Date: 2009-01-19 23:12
-Category: Progressive Awake
-Tags: progressive house, tech house
-Slug: nothing-january-2009
-Author: Łukasz Siwiński
-Summary: 
+# Nothing (January 2009)  
 
-<!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIZ3k4a0w2V21nbXc/edit?usp=sharing" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cXVpVENxa3JDUkk" />
-</a>
+----
+
+Date: 2009-01-19 23:12  
+Tags: progressive house, tech house  
+
+[![Progressive Awake](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cXVpVENxa3JDUkk)](https://drive.google.com/file/d/0B_4_ynm06YZIZ3k4a0w2V21nbXc/edit?usp=sharing)
 
 <!-- DOWNLOAD LINK -->
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIZ3k4a0w2V21nbXc/edit?usp=sharing" 
-    title="Progressive Awake - Nothing (January 2009)" target="_blank">
-**DOWNLOAD (100MB, 1h 48min)**
-</a>
+[**DOWNLOAD (100MB, 1h 48min)**](https://drive.google.com/file/d/0B_4_ynm06YZIZ3k4a0w2V21nbXc/edit?usp=sharing)
 
 TRACKLIST:  
 

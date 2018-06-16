@@ -1,22 +1,15 @@
-Title: Somebody New (November 2015)
-Date: 2015-11-11
-Category: Fresh Dance Music
-Tags: dance, house, pop, vocal
-Slug: somebody-new-november-2015
-Author: Łukasz Siwiński
-Summary: 
+# Somebody New (November 2015)
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528WlVMaFo5VWY3bk0" 
-    title="DOWNLOAD" target="_blank">
-    <img width="400" height="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528MzR5WW5HRGsybXM" />
-</a><br/>
+----
 
-<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=b19c9317-3ad9-4f43-a17c-06615e649371&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fsomebody-new-november-2015%2F&amp;hide_cover=1&amp;hide_tracklist=1&amp;mini=1&amp;replace=0&amp;stylecolor=fc0099" frameborder="0"></iframe>
+Date: 2015-11-11    
+Tags: dance, house, pop, vocal    
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528WlVMaFo5VWY3bk0" 
-    title="Fresh Dance Music - Somebody New (November 2015)" target="_blank">
-**DOWNLOAD (190MB, 83min)**
-</a>
+[![DOWNLOAD](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528MzR5WW5HRGsybXM)](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528WlVMaFo5VWY3bk0)
+[LISTEN @ MIXCLOUD](http://www.mixcloud.com/FreshDanceMusic/somebody-new-november-2015/)
+
+
+[**DOWNLOAD (190MB, 83min)**](https://drive.google.com/uc?export=download&id=0B8ZWtaisj528WlVMaFo5VWY3bk0)
 
 Tracklist:  
 
