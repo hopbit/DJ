@@ -33,6 +33,6 @@ Enjoy & support artists by buying their music or by listening using
 
 ----
 
-[Main page](../README.md)
+[BACK TO MAIN PAGE**](../README.md)
 
 ---- 
