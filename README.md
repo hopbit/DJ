@@ -2,8 +2,8 @@
 
 Some of sets/compilation were actually moved to new locations:
 
-* [Fresh Dance Music](https://github.com/hopbit/fresh-dance-music)
-* [Quantum Energy](https://github.com/hopbit/quantum-energy)
+* [Fresh Dance Music](http://hopbit.github.io/fresh-dance-music/)
+* [Quantum Energy](https://hopbit.github.io/quantum-energy/)
 
 Rest of the compilations (Progressive Awake & Unreleased Emotions) will be moved to new location in the nearest future 
 too. But at this moment this site keeps the most acual list of them. Stay tuned as I'm working on the new website :) 
