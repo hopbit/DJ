@@ -10,6 +10,12 @@ too. But at this moment this site keeps the most acual list of them. Stay tuned 
 
 # DJ Sets 
 
+## Unreleased Emotions
+
+* [**Chillstep (June 2011)**](./unreleased-emotions/chillstep-june-2011.md)
+* [Knockout (March 2011)](./unreleased-emotions/knockout-march-2011.md)
+
+
 ## Progressive Awake
 
 * [**New Time, New Place (June 2018)**](./progressive-awake/new-time-new-place-june-2018.md)
@@ -38,10 +44,5 @@ too. But at this moment this site keeps the most acual list of them. Stay tuned 
 * [Love Paradox (August 2008)](./progressive-awake/love-paradox-august-2008.md)
 * [It’s in my soul 2 (July 2008)](./progressive-awake/its-in-my-soul-2-july-2008.md)
 * [It’s in my soul (June 2008)](./progressive-awake/its-in-my-soul-june-2008.md)
-
-## Unreleased Emotions
-
-* [**Chillstep (June 2011)**](./unreleased-emotions/chillstep-june-2011.md)
-* [Knockout (March 2011)](./unreleased-emotions/knockout-march-2011.md)
 
 ----
