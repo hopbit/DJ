@@ -5,12 +5,12 @@
 Date: 2016-09-25    
 Tags:  dance, progressive house, vocal    
 
-[![DOWNLOAD](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aER0VVA4dkltY28)](https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download)
+[![DOWNLOAD](https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aER0VVA4dkltY28)](https://docs.google.com/uc?id=0B1aIvu0NI6o4aER0VVA4dkltY28&export=download)
 
 [LISTEN @ MIXCLOUD](http://www.mixcloud.com/progressiveawake/playpool-september-2016/)
 
 
-[**DOWNLOAD (107MB, 47min)**](https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download)
+[**DOWNLOAD (107MB, 47min)**](https://docs.google.com/uc?id=0B1aIvu0NI6o4aER0VVA4dkltY28&export=download)
 
 Tracklist:  
 
