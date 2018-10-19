@@ -11,7 +11,7 @@ Tags:  dubstep, popstep, progressive house
 
 TRACKLIST:  
 
-* excision, downling – existence vip (original mix)
+* excision, downlink – existence vip (original mix)
 * deadmau5 – raise your weapon (original mix)
 * spor – pacifica (kito & reija lee vocal remix)
 * deadmau5 – one trick pony (original mix)
@@ -21,7 +21,7 @@ TRACKLIST:
 * xilent – choose me 2 (original mix)
 * rusko – everyday (original mix)
 * tron, hoax, persist – i dare you (original mix)
-* paradigm – dreamer (original mix)
+* paradigm – sunrise (original mix)
 * fatboy slim – right here right now (jfb remix)
 * calvertron – future proof (original mix)
 * document one – clap (original mix)
